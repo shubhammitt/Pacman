@@ -7,5 +7,8 @@ The game is platform independent.
 4) If you want to change the structure of layout then just change the file name to layout_.txt in the file Pacman_game.py
 
 Have fun!!!
-!(https://github.com/shubhammitt/Pacman/blob/master/Screenshot1.PNG)
+
+![](https://github.com/shubhammitt/Pacman/blob/master/Screenshot1.PNG)
+![](https://github.com/shubhammitt/Pacman/blob/master/Screenshot2.PNG)
+![](https://github.com/shubhammitt/Pacman/blob/master/Screenshot3.PNG)
 #### Made by: Shubham Mittal
